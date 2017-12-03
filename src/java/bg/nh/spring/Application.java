@@ -19,7 +19,7 @@ import org.springframework.web.servlet.view.JstlView;
  */
 @SpringBootApplication
 @EnableWebMvc
-@ComponentScan("bg.mvr.spring")
+@ComponentScan("bg.nh.spring")
 public class Application extends SpringBootServletInitializer implements WebMvcConfigurer {
 
     @Override
